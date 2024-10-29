@@ -39,7 +39,6 @@ params:
   systems:
     - name: Website
       description: The web frontend for the application.
-      category: Uncategorized
       link: https://shoko.farted.net/
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
@@ -57,10 +56,6 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
-    - name: Empty Category
     - name: Uncategorized
       untitled: true
   description: Just a status site lol
