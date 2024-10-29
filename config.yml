@@ -42,8 +42,10 @@ params:
       link: https://shoko.farted.net/
       category: Uncategorized
     - name: Krokodeal (surge)
+     link: https://krokodeal.surge.sh/
       category: Uncategorized
     - name: Krokodeal (firebase)
+    link: https://krokodeal.web.app/
       category: Uncategorized
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
