@@ -42,6 +42,7 @@ params:
       link: https://shoko.farted.net/
       category: Uncategorized
     - name: Krokodeal (surge)
+      link: https://krokodeal.surge.sh/
       category: Uncategorized
     - name: Krokodeal (firebase)
       category: Uncategorized
